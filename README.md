@@ -1,4 +1,4 @@
-# CC7711 - INTELIGENCIA ARTIFICIAL E ROBÓTICA
+# CC7711 - Inteligência Artificial e Robótica
 
 ## Projeto Robótica
 
